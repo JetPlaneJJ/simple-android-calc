@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnight_green">#114B5F</color>
+    <color name="metallic_seaweed">#028090</color>
+    <color name="light_green">#E4FDE1</color>
+    <color name="queen_blue">#456990</color>
+    <color name="fiery_rose">#F45B69</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
