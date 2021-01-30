@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="result_default_txt">0.0</string>
+    <string name="left_par">left parentheses</string>
+    <string name="right_par">right parentheses</string>
 </resources>
